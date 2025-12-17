@@ -18,8 +18,9 @@ Track performance against monthly targets
 
 Enable leadership to make data-driven decisions
 
-**
-Key Insights Delivered**
+
+**Key Insights Delivered**
+
 **🔹 Executive KPIs**
 
 Total Revenue: $24.9M
@@ -67,6 +68,7 @@ Sales performance across North America, Europe, and Pacific regions
 Country-level contribution analysis
 
 **Power BI Skills Demonstrated**
+
 🔌 **Connecting & Shaping Data**
 
 Designed automated ETL workflows using Power Query to extract, transform, and load data within Power BI
@@ -93,8 +95,8 @@ Leveraged CALCULATE, FILTER, iterators (X-functions), and time intelligence patt
 
 Designed reusable KPIs for revenue, profit, orders, returns, and performance tracking
 
-** Visualizing Data with Reports**
- 
+ **Visualizing Data with Reports**
+
 Designed executive-ready dashboards using data visualization best practices
 
 Built and formatted core visuals including KPI cards, trend lines, bar charts, tables, and maps
@@ -118,6 +120,7 @@ Understand customer segments driving revenue
 Track progress against strategic sales targets
 
 **Author**
+
 Charu Negi
 numkit.cn@gmail.com
 Data Analyst | Business Intelligence | Power BI

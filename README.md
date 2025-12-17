@@ -1,82 +1,130 @@
-# Adventure_works
-Turning Data into Business Insights | AdventureWorks Analysis
+**AdventureWorks Power BI Sales Analytics Dashboard**
 
-# AdventureWorks Sales & Performance Analytics Dashboard
+**📊 Executive Summary**
 
-##  Project Description
+An end-to-end Power BI analytics project built on the Microsoft AdventureWorks dataset, designed to deliver executive-level insights into sales performance, profitability, customer behavior, and product returns.
 
-This project focuses on analyzing the **AdventureWorks dataset** to derive meaningful business insights related to sales, profit, orders, customer behavior, and product returns. The goal is to demonstrate how raw data can be transformed into an interactive dashboard that supports data-driven decision-making.
+This dashboard demonstrates strong proficiency in Power BI, Power Query, and DAX, with a focus on business storytelling, KPI design, and decision-ready analytics — suitable for real-world BI and data analyst roles.
 
-The analysis highlights key performance indicators (KPIs), trends over time, and product- and customer-level insights that are valuable for business stakeholders.
+**Business Objectives**
 
----
+Monitor company-wide revenue, profit, orders, and return rates
 
-## Why This Project Is Useful
+Identify high- and low-performing products and categories
 
-This project helps in understanding:
+Analyze customer purchasing behavior and value
 
-* Sales and revenue performance across time
-* Profitability and order trends
-* Product return rates and potential improvement areas
-* Customer segmentation and high-value customers
-* How business intelligence tools can be used for real-world decision-making
+Track performance against monthly targets
 
-It is ideal for showcasing skills in **Business Analytics, BI reporting, and data visualization**.
+Enable leadership to make data-driven decisions
 
----
+**
+Key Insights Delivered**
+**🔹 Executive KPIs**
 
-## Key Metrics & Insights
+Total Revenue: $24.9M
 
-* **Total Revenue:** $9.3M
-* **Total Profit:** $4.0M
-* **Total Orders:** 10.7K
-* **Return Rate:** 2.1%
-* **Top Category by Orders:** Accessories
-* **Most Ordered Product Type:** Tires & Tubes
-* **Most Returned Product Type:** Bike Stands
+Total Profit: $10.5M
 
----
+Total Orders: 25.2K
 
-## Getting Started
+Overall Return Rate: 2.2%
 
-To run or explore this project:
+**Sales Performance**
 
-1. Download the AdventureWorks dataset
-2. Open Power BI (or any BI tool of choice)
-3. Load the dataset and perform data cleaning
-4. Create calculated measures for KPIs such as revenue, profit, and return rate
-5. Build interactive visuals and dashboards
-6. Analyze trends and insights
+Revenue growth trend analysis from 2020–2022
 
----
+Monthly revenue, orders, and returns with MoM comparison
 
-## Tools & Technologies
+Actual vs target performance for revenue, profit, and orders
 
-* Power BI
-* DAX (Data Analysis Expressions)
-* Data Modeling
-* Business Intelligence & Analytics
+**Product Intelligence **
 
----
+Orders by category: Accessories, Bikes, Clothing
 
-## Getting Help
+Top 10 products by revenue and volume
 
-If you need help or have questions:
+Product-level return rate analysis
 
-* Open an issue in this GitHub repository
-* Refer to official Power BI and DAX documentation
+Most ordered product type: Tires & Tubes
 
----
+Most returned product type: Shorts
 
-## Maintainer
+**Customer Analytics**
 
-Maintained by **Charu Negi**
+17.4K unique customers analyzed
 
-This project is created for learning and portfolio purposes. Contributions and feedback are welcome.
+$1.4K average revenue per customer
 
----
+Customer segmentation by income level and occupation
 
-## License
+Top 100 customers ranked by total revenue
 
-This project is intended for educational and non-commercial use.
+**Geographic Insights**
+
+Sales performance across North America, Europe, and Pacific regions
+
+Country-level contribution analysis
+
+**Power BI Skills Demonstrated**
+🔌 **Connecting & Shaping Data**
+
+Designed automated ETL workflows using Power Query to extract, transform, and load data within Power BI
+
+Explored multiple data connectors, storage modes, and table transformations to ensure clean, analysis-ready data
+
+Applied best practices for data profiling, column optimization, and refresh performance
+
+**🔍 Creating a Relational Data Model**
+
+Built a robust AdventureWorks data model following BI and analytics best practices
+
+Implemented star schema design, proper normalization, and optimized relationships
+
+Carefully managed cardinality, cross-filter direction, and relationship integrity for efficient querying
+
+**📊 Adding Calculated Fields with DAX**
+
+Created calculated columns and measures to support advanced analytics
+
+Applied deep understanding of row context vs filter context
+
+Leveraged CALCULATE, FILTER, iterators (X-functions), and time intelligence patterns
+
+Designed reusable KPIs for revenue, profit, orders, returns, and performance tracking
+
+** Visualizing Data with Reports**
+ 
+Designed executive-ready dashboards using data visualization best practices
+
+Built and formatted core visuals including KPI cards, trend lines, bar charts, tables, and maps
+
+Added rich interactivity using slicers, bookmarks, parameters, tooltips, and report navigation
+
+Focused on clarity, usability, and storytelling to bring data to life
+
+⚠️ This project was built entirely within Power BI
+
+**Business Value**
+
+This dashboard enables stakeholders to:
+
+Quickly assess overall business health
+
+Detect underperforming products and high return rates
+
+Understand customer segments driving revenue
+
+Track progress against strategic sales targets
+
+**Author**
+Charu Negi
+numkit.cn@gmail.com
+Data Analyst | Business Intelligence | Power BI
+
+If you found this project valuable, feel free to ⭐ the repository or connect with me on LinkedIn.
+
+**📄 Disclaimer**
+
+AdventureWorks is a Microsoft sample dataset used for educational and portfolio demonstration purposes only.
 

@@ -123,6 +123,7 @@ Track progress against strategic sales targets
 
 Charu Negi
 numkit.cn@gmail.com
+LinkedIn: https://www.linkedin.com/in/charu-negi-359b24190/
 Data Analyst | Business Intelligence | Power BI
 
 If you found this project valuable, feel free to ⭐ the repository or connect with me on LinkedIn.

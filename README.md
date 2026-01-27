@@ -39,7 +39,7 @@ Monthly revenue, orders, and returns with MoM comparison
 
 Actual vs target performance for revenue, profit, and orders
 
-**Product Intelligence **
+Product Intelligence 
 
 Orders by category: Accessories, Bikes, Clothing
 
